@@ -1,2 +1,10 @@
-/ 100
-Professor will grade
+100 / 100
+
+-5 Makefile doesn't work if the bin folder already exists
+
++5 extra credit for a nice README and project layout
+
+-10 when you type a command that doesn't exist, the program dies (lookup "exceptions" in haskell, and the "try"/"catch" functions to fix this problem)
+
++10 extra credit for username/hostname in prompt
+
