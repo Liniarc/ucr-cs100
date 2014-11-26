@@ -1,2 +1,10 @@
-/ 100
-grade by professor
+90 / 100
+
+failed test case:
+
+$ touch test
+$ chmod u-rwx test
+$ echo asd > test
+
+your program correctly prints an error message that permisison is denied, but then it crashes
+
